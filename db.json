@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "resourceType": "Provider",
+    "payload": {
+        "unwanted":"unwanted"
+        "entities": [
+            {
+                "lastName": "Lessard",
+                "id": "519",
+                "unwanted":"unwanted"
+            },
+            {
+                "lastName": "Beaudoin",
+                "id": "520",
+                "unwanted":"unwanted"
+            }
+        ]
+    }
+    "unwanted":"unwanted"
 }
