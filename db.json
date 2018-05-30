@@ -1,7 +1,7 @@
 {
     "resourceType": "Provider",
     "payload": {
-        "unwanted":"unwanted"
+        "unwanted":"unwanted",
         "entities": [
             {
                 "lastName": "Lessard",
